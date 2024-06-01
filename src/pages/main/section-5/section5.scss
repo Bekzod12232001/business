@@ -1,0 +1,100 @@
+.dubai5 {
+  background: url(@/assets/images/dubai2.jpg) no-repeat ;
+ overflow: hidden;
+  object-fit: cover;
+  width: 50px;
+  height: 500px;
+  border-radius: 30px;
+  padding: 12px;
+}
+
+.dubai5:hover {
+  width: 300px;
+  height: 500px;
+  transition: 0.5s;
+}
+
+.active {
+  width: 300px;
+  height: 500px;
+  transition: 0.5s;
+}
+
+.antalya__active {
+  width: 300px;
+  height: 500px;
+  transition: 0.5s;
+}
+
+
+.slader {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  gap: 30px;
+}
+
+.slader-text {
+  display: flex;
+  margin-top: 430px;
+  gap: 30px;
+ 
+}
+
+.img-regular {
+  width: 30px;
+  height: 30px;
+object-fit: cover;
+border-radius: 50%;
+background-color: #fff;
+padding: 5px;
+
+}
+
+.population-text {
+  color: #fff;
+}
+
+.popu-title {
+  color: #fff;
+}
+
+.istanbul5 {
+  background: url(@/assets/images/istanbul5.jpg)center;
+
+  object-fit: cover;
+  width: 50px;
+  height: 500px;
+  border-radius: 30px;
+  padding: 12px;
+}
+
+.antalya5 {
+  background: url(@/assets/images/antalya5.jpg);
+
+  object-fit: cover;
+  width: 50px;
+  height: 500px;
+  border-radius: 30px;
+  padding: 12px;
+}
+
+.sharm5 {
+  background: url(@/assets/images/sharm55.jpg)center;
+
+  object-fit: cover;
+  width: 50px;
+  height: 500px;
+  border-radius: 30px;
+  padding: 12px;
+}
+
+.paris5 {
+  background: url(@/assets/images/paris5.jpg)center;
+
+  object-fit: cover;
+  width: 50px;
+  height: 500px;
+  border-radius: 30px;
+  padding: 12px;
+}

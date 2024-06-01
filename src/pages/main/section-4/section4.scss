@@ -1,0 +1,89 @@
+.section4-title {
+  text-align: start;
+}
+
+.section4-text {
+  text-align: start;
+  width: 400px;
+
+}
+
+.section4 .container{
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-top: 50px;
+}
+
+p {
+  opacity: 70%;
+}
+
+.section4-img {
+  width: 30px;
+  height: 30px;
+  opacity: 70%;
+}
+
+.people {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.section4-elect-info {
+  display: flex;justify-content: space-between;
+}
+
+.dubai2 {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 30px;
+}
+
+.section4-btn {
+  background-color: aqua;
+  border-radius: 30px;
+  height: 50px;
+  width: 200px;
+}
+
+.info-title-text {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.y {
+  text-decoration: none;
+  grid-area: y;
+}
+
+.section4-info {
+  display: flex;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+.form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section4-info-text {
+  text-align: start;
+}
+
+.u {
+  text-align: start;
+}
+
+.sect4-dubai {
+  text-align: start;
+}
+
+.information {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}

@@ -1,0 +1,25 @@
+@import '@/pages/navbar.scss';
+@import '@/pages/header/header.scss';
+@import '@/pages/main/section-1/section1.scss';
+@import '@/pages/main/section-2/section2.scss';
+@import '@/pages/main/section-3/section3.scss';
+@import '@/pages/main/section-4/section4.scss';
+@import '@/pages/main/section-5/section5.scss';
+@import '@/pages/main/section-6/section6.scss';
+@import '@/pages/main/section-7/section7.scss';
+@import "@/pages/footer/footer.scss";
+@import "../assets/madia.scss";
+
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.container {
+max-width: 1200px;
+width: 100%;
+  padding: 5px;
+  margin: 0 auto;
+ 
+}

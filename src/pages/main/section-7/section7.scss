@@ -1,0 +1,75 @@
+.titles {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px ;
+}
+
+.title2 {
+  color: aqua;
+}
+
+.title4 {
+  color: aqua;
+}
+
+.inp-text {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+}
+
+.input-text {
+ display: flex;
+ flex-direction: column;
+ gap: 30px;
+}
+
+.sect7-info {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.input-end {
+ 
+  margin-left: 50px;
+  width: 1100px;
+}
+
+.inputsy {
+  border-radius: 30px;
+  border: 1px soli darkgray;
+  border: none;
+  background-color: darkgrey;
+  padding-left: 10px;
+  width: 200px;
+  height: 40px;
+}
+
+.k {
+  width: 790px;
+}
+.l {
+  width: 790px;
+}
+
+.p {
+  text-align: center;
+}
+
+.buttons {
+  background-color: aqua;
+  border-radius: 30px;
+  width: 300px;
+  height: 50px;
+color: #fff;
+border: none;
+text-align: center;
+}
+
+.sec7-btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
